@@ -1,5 +1,5 @@
 setup:
-	python3 -m venv ~/.CloudDevOps-ND-Operationalize-ML-microservice
+	python3 -m venv ~/.CloudDevOps-ND-Operationalize-ML-Microservice
 
 install:
 	pip install --upgrade pip
