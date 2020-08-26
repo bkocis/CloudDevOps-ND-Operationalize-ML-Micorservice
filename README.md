@@ -1,4 +1,4 @@
-[![bkocis](https://circleci.com/gh/bkocis/CloudDevops-ND-Operationalize-ML-microservice.svg?style=svg)](https://app.circleci.com/pipelines/github/bkocis/CloudDevOps-ND-Operationalize-ML-Microservice)
+[![bkocis](https://circleci.com/gh/bkocis/CloudDevOps-ND-Operationalize-ML-microservice.svg?style=svg)](https://app.circleci.com/pipelines/github/bkocis/CloudDevOps-ND-Operationalize-ML-Microservice)
 
 
 ### Description
