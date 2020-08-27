@@ -1,1 +1,7 @@
 <paste log output from Kubernetes-mediated prediction, here>
+
+(.CloudDevOps-ND-Operationalize-ML-Micorservice) ubuntu:~/environment/CloudDevOps-ND-Operationalize-ML-Micorservice (master) $ kubectl port-forward mlapp3 8000:5001
+Forwarding from 127.0.0.1:8000 -> 5001
+Forwarding from [::1]:8000 -> 5001
+Handling connection for 8000
+Handling connection for 8000
